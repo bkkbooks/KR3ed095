@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR3ed095/v1
 canonical_location: https://kanripo.org/bkk/KR3ed095/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:80d2d927b8deb12efb4a2db45a88623d21d8eb0caa5df4e1fce34edd8ec300b3
 metadata:
   title: 奇正方
   identifiers:
@@ -20,4 +20,4 @@ assets:
     filename: KR3ed095_001.yaml
     hash: sha256:19e870d1ebfbdd2555008b47339c40210beebab535f298a6e41f1ad0fc7fcbd3
 table_of_contents: []
-hash: sha256:1889a56c18d97756f25e8da9c7f5892745c080e05d354528605bdf0377609809
+hash: sha256:2e8011beb2b4be062a653c260aa42d1d081b8d7c0ae63c6536d8f6d16a95a386
